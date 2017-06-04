@@ -1,0 +1,33 @@
+Initialize engine version: 4.5.2f1 (9abb1b59b47c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Y'Ash\Google Drive\BCE project\Puzzle Game 3D\Puzzle Game 3D_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Y'Ash\Google Drive\BCE project\Puzzle Game 3D\Puzzle Game 3D_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Y'Ash\Google Drive\BCE project\Puzzle Game 3D\Puzzle Game 3D_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Y'Ash\Google Drive\BCE project\Puzzle Game 3D\Puzzle Game 3D_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.137 seconds
+desktop: 1920x1080 60Hz; virtual: 1280x720 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+UnloadTime: 0.237826 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 305.
+Total: 0.430616 ms (FindLiveObjects: 0.015407 ms CreateObjectMapping: 0.008691 ms MarkObjects: 0.096394 ms  DeleteObjects: 0.003160 ms)
+
+You're Out of time.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.617875 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 136.
+Total: 0.545974 ms (FindLiveObjects: 0.007111 ms CreateObjectMapping: 0.009086 ms MarkObjects: 0.092839 ms  DeleteObjects: 0.092839 ms)
+
